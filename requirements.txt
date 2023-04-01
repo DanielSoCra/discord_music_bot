@@ -1,0 +1,6 @@
+discord
+google-api-python-client
+pytube
+pydub
+youtube_dl
+python-dotenv
